@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    background-color: rgb(177, 223, 240);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.input-tag{
+    width: 95%;
+}
+.options{
+    padding-left: 40px;
+}
+.submit-button{
+    text-align: center;
+    background-color: rgb(15, 125, 50);
+    border: solid 1px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 25%;
+    padding: 10px;
+}
+.submit-button:hover{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border: solid 1px;
+    color: rgb(29, 170, 45);
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px;
+}
